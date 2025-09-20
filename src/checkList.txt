@@ -1,0 +1,13 @@
+-- data base --
+[x] Database
+[x] Sample Data
+-- Model --
+[x] query Student from database
+-- Veiw --
+[x] Display All Student
+[ ] Registry Page
+[ ] Grader Page
+[ ] Student Detail
+[ ] Authen Page
+-- Control -- 
+[ ] Business Rules (all)
